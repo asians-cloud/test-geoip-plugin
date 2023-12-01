@@ -1,5 +1,4 @@
 local kong = kong
-local gaius = require "gaius"
 local geo = require 'kong.plugins.gaius-geoip.maxminddb'
 local ipmatcher = require "resty.ipmatcher"
 
