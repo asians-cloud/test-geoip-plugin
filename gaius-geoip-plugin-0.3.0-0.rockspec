@@ -16,6 +16,7 @@ description = {
 
 dependencies = {
   "lua >= 5.1",
+  "lua-resty-prettycjson >= 1.6",
 }
 
 build = {
